@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Gangaithiri S",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "aji29@gmail.com",
+    "phone": "candidate phone number",
+    
+    "location": {
+      "address": "middle street",
+      "postalCode": "628303",
+      "city": "Thoothukudi",
+      "countryCode": "India",
+      
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "aji",
+      "url": "https://twitter.com/aji"
+    }]
+  },
+  "work": [{
+    "name": "Co-operative society",
+    "position": "developer",
+    "url": "https://co-operative society.com",
+   
+   
+  }],
+  "volunteer": [{
+    "organization": "Nss",
+    "position": "Volunteer",
+   
+    "highlights": [
+      "Awarded 'Leadership certificate'"
+    ]
+  }],
+  "education": [{
+    "institution": " Anna University",
+    "Insitute website": "https://Anna university.com/",
+    
+    "studyType": "Bachelor",
+    "Course startDate": "27-04-2008",
+    "Course endDate": "17-04-2012",
+    "score": "6.68",
+    "course": [
+      "Computer science and engineering"
+    ]
+  }],
+  
+  "certificates": [{
+    "name": "C programming",
+    "course start date": "4-5-2010",
+    "Certificate issuer": "CIT",
+    "Website of Insitute": "https://cit.com"
+  }],
+  
+  "skills": [{
+    "name": "Web Development",
+    "level": "Beginner",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Tamil"
+  }],
+  "interests": [{
+    "name": "Book Reading ,writing stories",
+    
+  }],
+  "references": [{
+    "name": "gangaithiri",
+    "reference": "Reference…"
+  }],
+  "projects": [{
+    "name": "Online Examination ",
+    "description": "created web page using html and link database using sql ",
+    
+    "keywords": [
+      "HTML,SQL"
+    ],
+    "url": "https://online Examination.com/",
+    "roles": [
+      "Team Lead"
+    ],
+   
+  }]
+}
+console.log(resume);
